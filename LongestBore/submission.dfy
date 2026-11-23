@@ -1,7 +1,7 @@
 // Please, before you do anything else, add your names here:
 // Group:    9
 // Member 1: Gijs Laurens Marie Buist: 2130459
-// Member 2: <Full name 2>: <Student number 2>
+// Member 2: Sanula De Silva: 2088509
 
 include "assignment.dfy"
  
